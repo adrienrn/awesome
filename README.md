@@ -2,6 +2,8 @@
 
 ## JavaScript - Typescript
 
+### Charts & Data Visualization
+
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | --- | --- | ---: | --- | --- | --- |
 | amCharts<br />[Github](https://github.com/amcharts/amcharts5) | | 370.9kB (87.4kB) | ![GitHub release](https://img.shields.io/npm/v/@amcharts/amcharts5?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/amcharts/amcharts5?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@amcharts/amcharts5?logo=npm&label=) |
@@ -24,23 +26,6 @@
 - [The CSS of State of JS with Sacha Greif - Youtube](https://www.youtube.com/watch?v=QpHFAA_UdF0) - interesting talk about the tech stack behing "The State Of" websites with a deep-dive on data visualization/charts
 - [Performance comparison of charts library - scichart.com](https://www.scichart.com/blog/scichart-is-the-fastest-js-chart-library-available-and-why-that-matters-in-todays-world/) - comparison of 4 libraries (scichart, plotly.js, highcharts and chart.js for heavy number of data points and keeping rendering fluid
 
-### ID & Unique IDs
-
-| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
-| --- | --- | ---: | --- | --- | --- |
-| @lukeed/uuid<br />[Github](https://github.com/lukeed/uuid) | | 466B (336B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@lukeed/uuid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/uuid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@lukeed/uuid?logo=npm&label=) |
-| @paralleldrive/cuid2<br />[Github](https://github.com/paralleldrive/cuid2) | | 11.1kB (4.2kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@paralleldrive/cuid2?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/paralleldrive/cuid2?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@paralleldrive/cuid2?logo=npm&label=) |
-| hashids<br />[Github](https://github.com/niieani/hashids.js) | | 5.2kB (2.1kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/hashids?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/niieani/hashids.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/hashids?logo=npm&label=) |
-| hexoid<br />[Github](https://github.com/lukeed/hexoid) | | 427B (293B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/hexoid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/hexoid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/hexoid?logo=npm&label=) |
-| nanoid<br />[Github](https://github.com/ai/nanoid) | | 799B (463B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/nanoid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ai/nanoid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/nanoid?logo=npm&label=) |
-| sqids<br />[Github](https://github.com/sqids/sqids-javascript) | | 8.5kB (3kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/sqids?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/sqids/sqids-javascript?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/sqids?logo=npm&label=) |
-| uid<br />[Github](https://github.com/lukeed/uid) | | 391B (282B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/uid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/uid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/uid?logo=npm&label=) |
-| uuid<br />[Github](https://github.com/uuidjs/uuid) | | 10.3kB (3.8kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/uuid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/uuidjs/uuid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/uuid?logo=npm&label=) |
-
-Read more: 
-
-- https://github.com/swyxio/brain/blob/master/R%20-%20Dev%20Notes/uuid%20list.md
-
 ### GUI Parameters & Settings
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
@@ -58,3 +43,30 @@ Read more:
 Read more:
 
 - https://xosh.org/javascript-control-ui/
+
+### ID & Unique IDs
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| --- | --- | ---: | --- | --- | --- |
+| @lukeed/uuid<br />[Github](https://github.com/lukeed/uuid) | | 466B (336B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@lukeed/uuid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/uuid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@lukeed/uuid?logo=npm&label=) |
+| @paralleldrive/cuid2<br />[Github](https://github.com/paralleldrive/cuid2) | | 11.1kB (4.2kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@paralleldrive/cuid2?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/paralleldrive/cuid2?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@paralleldrive/cuid2?logo=npm&label=) |
+| hashids<br />[Github](https://github.com/niieani/hashids.js) | | 5.2kB (2.1kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/hashids?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/niieani/hashids.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/hashids?logo=npm&label=) |
+| hexoid<br />[Github](https://github.com/lukeed/hexoid) | | 427B (293B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/hexoid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/hexoid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/hexoid?logo=npm&label=) |
+| nanoid<br />[Github](https://github.com/ai/nanoid) | | 799B (463B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/nanoid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ai/nanoid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/nanoid?logo=npm&label=) |
+| sqids<br />[Github](https://github.com/sqids/sqids-javascript) | | 8.5kB (3kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/sqids?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/sqids/sqids-javascript?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/sqids?logo=npm&label=) |
+| uid<br />[Github](https://github.com/lukeed/uid) | | 391B (282B) | ![GitHub release (with filter)](https://img.shields.io/npm/v/uid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/uid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/uid?logo=npm&label=) |
+| uuid<br />[Github](https://github.com/uuidjs/uuid) | | 10.3kB (3.8kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/uuid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/uuidjs/uuid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/uuid?logo=npm&label=) |
+
+Read more: 
+
+- https://github.com/swyxio/brain/blob/master/R%20-%20Dev%20Notes/uuid%20list.md
+
+### Routing
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| Navaid<br />[Github](https://github.com/lukeed/navaid) - [NPM](https://www.npmjs.com/package/navaid) | | 2kB (1kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/navaid?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lukeed/navaid?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/navaid?logo=npm&label=) |
+| Page.js<br />[Github](https://github.com/visionmedia/page.js) - [NPM](https://www.npmjs.com/package/page.js) | | 5.7kB (2.4kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/page.js?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/visionmedia/page.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/page.js?logo=npm&label=) |
+| React Router<br />[Github](https://github.com/remix-run/react-router) - [NPM](https://www.npmjs.com/package/react-router) | | 160.5kB (49.1kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/react-router?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/remix-run/react-router?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/react-router?logo=npm&label=) |
+| Universal Router<br />[Github](https://github.com/kriasoft/universal-router) - [NPM](https://www.npmjs.com/package/universal-router) | | 6.6kB (2.6kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/universal-router?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/universal-router?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/universal-router?logo=npm&label=) |
+| Wouter<br />[Github](https://github.com/molefrog/wouter) - [NPM](https://www.npmjs.com/package/wouter) | | 5.7kB (2.5kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/wouter?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/wouter?logo=npm&label=) |

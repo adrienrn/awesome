@@ -2,6 +2,28 @@
 
 ## JavaScript - Typescript
 
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| --- | --- | ---: | --- | --- | --- |
+| amCharts<br />[Github](https://github.com/amcharts/amcharts5) | | 370.9kB (87.4kB) | ![GitHub release](https://img.shields.io/npm/v/@amcharts/amcharts5?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/amcharts/amcharts5?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@amcharts/amcharts5?logo=npm&label=) |
+| ApexCharts<br />[Github](https://github.com/apexcharts/apexcharts.js) | | 560.1kB (148.9kB) | ![GitHub release](https://img.shields.io/npm/v/apexcharts?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/apexcharts/apexcharts.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/apexcharts?logo=npm&label=) |
+| C3<br />[Github](https://github.com/c3js/c3) - [NPM](https://www.npmjs.com/package/c3) | | 461.9kB (126.7kB) | ![GitHub release](https://img.shields.io/npm/v/c3?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/c3js/c3?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/c3?logo=npm&label=) |
+| Chart.js<br />[Github](https://github.com/chartjs/Chart.js) | | 200.7kB (67.1kB) | ![GitHub release](https://img.shields.io/npm/v/chart.js?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/chartjs/Chart.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/chart.js?logo=npm&label=)  
+| D3<br />[Github](https://github.com/d3/d3) | | 290.4kB (90.7kB) | ![GitHub release](https://img.shields.io/npm/v/d3?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/d3/d3?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/d3?logo=npm&label=) |
+| ECharts (Apache)<br />[Github](https://github.com/apache/echarts) - [NPM](https://www.npmjs.com/package/echarts) | | 1MB (328.4kb) | ![GitHub release](https://img.shields.io/npm/v/echarts?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/apache/echarts?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/echarts?logo=npm&label=) |
+| Highcharts<br />[Github](https://github.com/highcharts/highcharts) | | 268.6kB (97.5kB) | ![GitHub release](https://img.shields.io/npm/v/highcharts?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/highcharts/highcharts?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/highcharts?logo=npm&label=) |
+| Nivo<br />[Github](https://github.com/plouc/nivo) | | 328.1kB (98.8kB) | ![GitHub release](https://img.shields.io/npm/v/@nivo/bar?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/plouc/nivo?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@nivo/bar?logo=npm&label=) |
+| Plotly.js<br />[Github](https://github.com/plotly/plotly.js) | | 63.8kB (9kb) |![GitHub release](https://img.shields.io/npm/v/plotly.js?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/plotly.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/plotly.js?logo=npm&label=) |
+| Recharts<br />[Github](https://github.com/recharts/recharts) | | 602.6kB (137kB) | ![GitHub release](https://img.shields.io/npm/v/recharts?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/recharts/recharts?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/recharts?logo=npm&label=) |
+| SciChart<br />[Github](https://github.com/abtsoftware/scichart.js.examples) - [NPM](https://www.npmjs.com/package/scichart) | | 1.9MB (405.7kB) | ![GitHub release](https://img.shields.io/npm/v/scichart?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/abtsoftware/scichart.js.examples?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/scichart?logo=npm&label=) |
+| Tremor<br />[Github](https://github.com/tremorlabs/tremor) - [NPM](https://www.npmjs.com/package/@tremor/react) | | - | ![GitHub release](https://img.shields.io/npm/v/@tremor/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/tremorlabs/tremor?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@tremor/react?logo=npm&label=) |
+| Victory<br />[Github](https://github.com/FormidableLabs/victory) | | 497.6kB (131.1kB) | ![GitHub release](https://img.shields.io/npm/v/victory?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/FormidableLabs/victory?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/victory?logo=npm&label=) |
+| visx<br />[Github](https://github.com/airbnb/visx) | |  854.5kB (192.3kB) | ![GitHub release](https://img.shields.io/npm/v/@visx/visx?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/airbnb/visx?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@visx/visx?logo=npm&label=) |
+
+**Read more:**
+
+- [The CSS of State of JS with Sacha Greif - Youtube](https://www.youtube.com/watch?v=QpHFAA_UdF0) - interesting talk about the tech stack behing "The State Of" websites with a deep-dive on data visualization/charts
+- [Performance comparison of charts library - scichart.com](https://www.scichart.com/blog/scichart-is-the-fastest-js-chart-library-available-and-why-that-matters-in-todays-world/) - comparison of 4 libraries (scichart, plotly.js, highcharts and chart.js for heavy number of data points and keeping rendering fluid
+
 ### ID & Unique IDs
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |

@@ -61,6 +61,14 @@ Read more:
 
 - https://github.com/swyxio/brain/blob/master/R%20-%20Dev%20Notes/uuid%20list.md
 
+### Images
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| Sharp<br />[Github](https://github.com/lovell/sharp) - [NPM](https://www.npmjs.com/package/sharp) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/sharp?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/sharp?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lovell/sharp?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/sharp?logo=npm&label=) |
+| Unpic (react)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/react) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/react?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/react?logo=npm&label=) |
+| Unpic (svelte)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/svelte) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/svelte?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/svelte?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/svelte?logo=npm&label=) |
+
 ### Routing
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
@@ -79,3 +87,11 @@ Read more:
 | @use-gesture (React)<br />[Github](https://github.com/pmndrs/use-gesture) - [NPM](https://www.npmjs.com/package/@use-gesture/react) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/%40use-gesture%2Freact?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@use-gesture/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/use-gesture?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@use-gesture/react?logo=npm&label=) |
 | @use-gesture (Vanilla)<br />[Github](https://github.com/pmndrs/use-gesture) - [NPM](https://www.npmjs.com/package/@use-gesture/vanilla) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/%40use-gesture%2Fvanilla?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@use-gesture/vanilla?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/use-gesture?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@use-gesture/vanilla?logo=npm&label=) |
 
+### Utilities
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| es-toolkit<br />[Github](https://github.com/toss/es-toolkit) - [NPM](https://www.npmjs.com/package/es-toolkit) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/es-toolkit?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/es-toolkit?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/toss/es-toolkit?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/es-toolkit?logo=npm&label=) |
+| Lodash<br />[Github](https://github.com/lodash/lodash) - [NPM](https://www.npmjs.com/package/lodash) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/lodash?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/lodash?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lodash/lodash?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/lodash?logo=npm&label=) |
+| Radash<br />[Github](https://github.com/sodiray/radash) - [NPM](https://www.npmjs.com/package/radash) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/radash?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/radash?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/sodiray/radash?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/radash?logo=npm&label=) |
+| Radashi<br />[Github](https://github.com/radashi-org/radashi) - [NPM](https://www.npmjs.com/package/radashi) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/radashi?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/radashi?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/radashi-org/radashi?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/radashi?logo=npm&label=) |

@@ -23,6 +23,12 @@ Other links:
 | --- | --- | ---: | --- | --- | --- |
 | Pocketbase<br />[Github](https://github.com/pocketbase/pocketbase) - [Website](https://pocketbase.io) | - | - | ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pocketbase/pocketbase?logo=go&logoColor=fff&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?logo=github&label=) | - |
 
+## Components & UI kit
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| --- | --- | ---: | --- | --- | --- |
+| Vaul<br />[Github](https://github.com/emilkowalski/vaul) - [NPM](https://www.npmjs.com/package/vaul) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/vaul?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/vaul?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/emilkowalski/vaul?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/vaul?logo=npm&label=) |
+
 ## Charts & Data Visualization
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |

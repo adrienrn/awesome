@@ -6,9 +6,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | Pocketbase<br />[Github](https://github.com/pocketbase/pocketbase) - [Website](https://pocketbase.io) | - | - | ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pocketbase/pocketbase?logo=go&logoColor=fff&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?logo=github&label=) | - |
 
-## JavaScript - Typescript
-
-### Charts & Data Visualization
+## Charts & Data Visualization
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | --- | --- | ---: | --- | --- | --- |
@@ -32,7 +30,7 @@
 - [The CSS of State of JS with Sacha Greif - Youtube](https://www.youtube.com/watch?v=QpHFAA_UdF0) - interesting talk about the tech stack behing "The State Of" websites with a deep-dive on data visualization/charts
 - [Performance comparison of charts library - scichart.com](https://www.scichart.com/blog/scichart-is-the-fastest-js-chart-library-available-and-why-that-matters-in-todays-world/) - comparison of 4 libraries (scichart, plotly.js, highcharts and chart.js for heavy number of data points and keeping rendering fluid
 
-### GUI Parameters & Settings
+## GUI Parameters & Settings
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | --- | --- | ---: | --- | --- | --- |
@@ -50,7 +48,7 @@ Read more:
 
 - https://xosh.org/javascript-control-ui/
 
-### ID & Unique IDs
+## ID & Unique IDs
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | --- | --- | ---: | --- | --- | --- |
@@ -67,15 +65,17 @@ Read more:
 
 - https://github.com/swyxio/brain/blob/master/R%20-%20Dev%20Notes/uuid%20list.md
 
-### Images
+## Images
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | :--- | :--- | ---: | :--- | :--- | :--- |
+| govips<br />[Github](https://github.com/davidbyttow/govips) | - | - | ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/davidbyttow/govips?logo=go&logoColor=fff&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/davidbyttow/govips?logo=github&label=) | - |
+| libvips<br />[Github](https://github.com/libvips/libvips) | | - | ![GitHub release (with filter)](https://img.shields.io/github/v/release/libvips/libvips?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/libvips/libvips?logo=github&label=) | - |
 | Sharp<br />[Github](https://github.com/lovell/sharp) - [NPM](https://www.npmjs.com/package/sharp) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/sharp?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/sharp?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lovell/sharp?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/sharp?logo=npm&label=) |
 | Unpic (react)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/react) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/react?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/react?logo=npm&label=) |
 | Unpic (svelte)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/svelte) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/svelte?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/svelte?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/svelte?logo=npm&label=) |
 
-### Micro-frontends
+## Micro-frontends
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | :--- | :--- | ---: | :--- | :--- | :--- |
@@ -83,7 +83,7 @@ Read more:
 | module-federation<br />[Github](https://github.com/module-federation/core) - [Website](https://module-federation.io) | | - | ![GitHub release (with filter)](https://img.shields.io/npm/v/@module-federation/sdk?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/core?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@module-federation/sdk?logo=npm&label=) |
 | single-spa<br />[Github](https://github.com/single-spa/single-spa) - [NPM](https://www.npmjs.com/package/single-spa) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/single-spa?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/single-spa?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/single-spa/single-spa?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/single-spa?logo=npm&label=) |
 
-### Routing
+## Routing
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | :--- | :--- | ---: | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ Read more:
 | Universal Router<br />[Github](https://github.com/kriasoft/universal-router) - [NPM](https://www.npmjs.com/package/universal-router) | | 6.6kB (2.6kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/universal-router?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/universal-router?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/universal-router?logo=npm&label=) |
 | Wouter<br />[Github](https://github.com/molefrog/wouter) - [NPM](https://www.npmjs.com/package/wouter) | | 5.7kB (2.5kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/wouter?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/wouter?logo=npm&label=) |
 
-### UI Gestures & Tools
+## UI Gestures & Tools
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | :--- | :--- | ---: | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ Read more:
 | @use-gesture (React)<br />[Github](https://github.com/pmndrs/use-gesture) - [NPM](https://www.npmjs.com/package/@use-gesture/react) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/%40use-gesture%2Freact?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@use-gesture/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/use-gesture?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@use-gesture/react?logo=npm&label=) |
 | @use-gesture (Vanilla)<br />[Github](https://github.com/pmndrs/use-gesture) - [NPM](https://www.npmjs.com/package/@use-gesture/vanilla) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/%40use-gesture%2Fvanilla?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@use-gesture/vanilla?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/use-gesture?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@use-gesture/vanilla?logo=npm&label=) |
 
-### Utilities
+## Utilities
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
 | :--- | :--- | ---: | :--- | :--- | :--- |

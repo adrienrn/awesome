@@ -75,6 +75,14 @@ Read more:
 | Unpic (react)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/react) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/react?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/react?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/react?logo=npm&label=) |
 | Unpic (svelte)<br />[Github](https://github.com/ascorbic/unpic-img) - [NPM](https://www.npmjs.com/package/@unpic/svelte) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@unpic/svelte?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/@unpic/svelte?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ascorbic/unpic-img?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@unpic/svelte?logo=npm&label=) |
 
+### Micro-frontends
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| qiankun<br />[Github](https://github.com/umijs/qiankun) - [NPM](https://www.npmjs.com/package/qiankun) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/qiankun?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/qiankun?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/umijs/qiankun?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/qiankun?logo=npm&label=) |
+| module-federation<br />[Github](https://github.com/module-federation/core) - [Website](https://module-federation.io) | | - | ![GitHub release (with filter)](https://img.shields.io/npm/v/@module-federation/sdk?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/core?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@module-federation/sdk?logo=npm&label=) |
+| single-spa<br />[Github](https://github.com/single-spa/single-spa) - [NPM](https://www.npmjs.com/package/single-spa) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/single-spa?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/single-spa?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/single-spa/single-spa?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/single-spa?logo=npm&label=) |
+
 ### Routing
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |

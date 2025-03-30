@@ -1,5 +1,11 @@
 # awesome
 
+## Back-End as a Service
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| --- | --- | ---: | --- | --- | --- |
+| Pocketbase<br />[Github](https://github.com/pocketbase/pocketbase) - [Website](https://pocketbase.io) | - | - | ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pocketbase/pocketbase?logo=go&logoColor=fff&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?logo=github&label=) | - |
+
 ## JavaScript - Typescript
 
 ### Charts & Data Visualization

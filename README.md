@@ -1,5 +1,22 @@
 # awesome
 
+## Animations (CSS, JS)
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| anime<br />[Github](https://github.com/juliangarnier/anime) - [NPM](https://www.npmjs.com/package/animejs) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/animejs?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/animejs?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/juliangarnier/anime?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/animejs?logo=npm&label=) |
+| motion<br />[Github](https://github.com/motiondivision/motion) - [NPM](https://www.npmjs.com/package/motion) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/motion?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/motion?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/motiondivision/motion?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/motion?logo=npm&label=) |
+| react-spring<br />[Github](https://github.com/pmndrs/react-spring) - [NPM](https://www.npmjs.com/package/react-spring) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-spring?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/react-spring?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pmndrs/react-spring?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/react-spring?logo=npm&label=) |
+
+Other links:
+
+- [https://buildui.com/](https://buildui.com/)
+- [https://www.hover.dev/](https://www.hover.dev/)
+- [Great animations on emilkowal.ski](https://emilkowal.ski/ui/great-animations)
+- [The magic of clip-path on emilkowal.ski](https://emilkowal.ski/ui/the-magic-of-clip-path)
+- [Building a drawer component on emilkowal.ski](https://emilkowal.ski/ui/building-a-drawer-component)
+- [Building a toast component on emilkowal.ski](https://emilkowal.ski/ui/building-a-toast-component)
+
 ## Back-End as a Service
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |

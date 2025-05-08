@@ -108,6 +108,14 @@ Read more:
 | module-federation<br />[Github](https://github.com/module-federation/core) - [Website](https://module-federation.io) | | - | ![GitHub release (with filter)](https://img.shields.io/npm/v/@module-federation/sdk?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/module-federation/core?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/@module-federation/sdk?logo=npm&label=) |
 | single-spa<br />[Github](https://github.com/single-spa/single-spa) - [NPM](https://www.npmjs.com/package/single-spa) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/single-spa?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/single-spa?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/single-spa/single-spa?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/single-spa?logo=npm&label=) |
 
+## Music / Web Audio API
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| Howler<br />[Github](https://github.com/goldfire/howler.js) - [NPM](https://www.npmjs.com/package/howler) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/tone?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/howler?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/goldfire/howler.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/howler?logo=npm&label=) |
+| Tonal<br />[Github](https://github.com/tonaljs/tonal) - [NPM](https://www.npmjs.com/package/tonal) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/tonal?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/tonal?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/tonaljs/tonal?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/tonal?logo=npm&label=) |
+| Tone.js<br />[Github](https://github.com/Tonejs/Tone.js) - [NPM](https://www.npmjs.com/package/tone) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/tone?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/tone?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/Tonejs/Tone.js?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/tone?logo=npm&label=) |
+
 ## Routing
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |

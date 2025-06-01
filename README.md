@@ -25,6 +25,11 @@ Other links:
 | --- | --- | ---: | --- | --- | --- |
 | Pocketbase<br />[Github](https://github.com/pocketbase/pocketbase) - [Website](https://pocketbase.io) | - | - | ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pocketbase/pocketbase?logo=go&logoColor=fff&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/pocketbase/pocketbase?logo=github&label=) | - |
 
+## Canvas & 3D & SVG
+
+- https://pixijs.com/
+- https://github.com/petercollingridge/InteractiveSVG.js
+
 ## Components & UI kit
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
@@ -127,6 +132,12 @@ Read more:
 | Universal Router<br />[Github](https://github.com/kriasoft/universal-router) - [NPM](https://www.npmjs.com/package/universal-router) | | 6.6kB (2.6kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/universal-router?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/kriasoft/universal-router?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/universal-router?logo=npm&label=) |
 | Wouter<br />[Github](https://github.com/molefrog/wouter) - [NPM](https://www.npmjs.com/package/wouter) | | 5.7kB (2.5kB) | ![GitHub release (with filter)](https://img.shields.io/npm/v/wouter?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/molefrog/wouter?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/wouter?logo=npm&label=) |
 
+## Search & fuzzy search
+
+- https://lunrjs.com | https://github.com/olivernn/lunr.js/
+- https://www.fusejs.io | https://github.com/krisk/fuse
+- match-sorter | https://github.com/kentcdodds/match-sorter
+
 ## UI Gestures & Tools
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
@@ -143,3 +154,5 @@ Read more:
 | Lodash<br />[Github](https://github.com/lodash/lodash) - [NPM](https://www.npmjs.com/package/lodash) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/lodash?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/lodash?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/lodash/lodash?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/lodash?logo=npm&label=) |
 | Radash<br />[Github](https://github.com/sodiray/radash) - [NPM](https://www.npmjs.com/package/radash) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/radash?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/radash?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/sodiray/radash?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/radash?logo=npm&label=) |
 | Radashi<br />[Github](https://github.com/radashi-org/radashi) - [NPM](https://www.npmjs.com/package/radashi) | | ![npm bundle size](https://img.shields.io/bundlephobia/minzip/radashi?logo=JavaScript&logoColor=%23fff&labelColor=%23000&color=%23000&label=) | ![GitHub release (with filter)](https://img.shields.io/npm/v/radashi?logo=npm&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/radashi-org/radashi?logo=github&label=) | ![npm](https://img.shields.io/npm/dm/radashi?logo=npm&label=) |
+
+- https://gist.github.com/xposedbones/75ebaef3c10060a3ee3b246166caab56?permalink_comment_id=4214181

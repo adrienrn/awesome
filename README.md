@@ -1,5 +1,19 @@
 # awesome
 
+## Admin Panel
+
+| Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
+| :--- | :--- | ---: | :--- | :--- | :--- |
+| Admiral<br />[Website](https://admiral.dev/) - [Github](https://github.com/dev-family/admiral) | | | ![GitHub Release](https://img.shields.io/github/v/release/dev-family/admiral?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/dev-family/admiral?logo=github&label=) | |
+| Appsmith<br />[Website](https://www.appsmith.com/) - [Github](https://github.com/appsmithorg/appsmith) | | | ![GitHub Release](https://img.shields.io/github/v/release/appsmithorg/appsmith?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/appsmithorg/appsmith?logo=github&label=) | |
+| Budibase<br />[Website](https://budibase.com/) - [Github](https://github.com/Budibase/budibase) | | | ![GitHub Release](https://img.shields.io/github/v/release/Budibase/budibase?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/Budibase/budibase?logo=github&label=) | |
+| DronaHQ<br />[Website](https://dronahq.io/) - [Github](https://github.com/DronaHQ/dronahq) | | | - | - | |
+| Forest Admin<br />[Website](https://www.forestadmin.com/) - [Github](https://github.com/ForestAdmin/forest-admin) | | | - | - | |
+| JetAdmin<br />[Website](https://jetadmin.io/) - [Github](https://github.com/jet-admin/jet-admin) | | | - | - | |
+| Kottster<br />[Website](https://kottster.app) - [Github](https://github.com/kottster/kottster) | | | ![GitHub Release](https://img.shields.io/github/v/release/kottster/kottster?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/kottster/kottster?logo=github&label=) | |
+| React-Admin<br />[Website](https://marmelab.com/react-admin/) - [Github](https://github.com/marmelab/react-admin) | | | ![GitHub Release](https://img.shields.io/github/v/release/marmelab/react-admin?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/marmelab/react-admin?logo=github&label=) | |
+| ToolJet<br />[Website](https://tooljet.com/) - [Github](https://github.com/ToolJet/tooljet) | | | ![GitHub Release](https://img.shields.io/github/v/release/ToolJet/tooljet?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/ToolJet/tooljet?logo=github&label=) | |
+
 ## Animations (CSS, JS)
 
 | Library | Description | Bundle size (gzip) | Last release | Last activity | Downloads |
